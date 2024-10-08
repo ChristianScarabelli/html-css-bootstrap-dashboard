@@ -31,3 +31,7 @@ img {
 .table tr > td {
     padding: 15px;
 }
+
+i {
+    height: 10px;
+}

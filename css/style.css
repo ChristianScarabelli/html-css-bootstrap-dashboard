@@ -20,3 +20,9 @@ img {
 	max-width: 100%;
 }
 
+/* LAYOUT  */
+
+/* navbar  */
+.navbar-brand img {
+    height: 60px;
+}

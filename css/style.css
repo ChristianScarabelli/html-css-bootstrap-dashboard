@@ -26,3 +26,8 @@ img {
 .navbar-brand img {
     height: 60px;
 }
+
+/* table  */
+.table tr > td {
+    padding: 15px;
+}
